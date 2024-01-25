@@ -1,1 +1,1 @@
-# Algerian_fake_news
+# FASSILA : A fakenews and sentiment analysis corpus for the algerian dialect
