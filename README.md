@@ -1,4 +1,4 @@
-# FASSILA Analysis
+# 1 - FASSILA Analysis
 
 This Python script performs analysis on Arabic language text data, including counting Modern Standard Arabic (MSA) words, determining vocabulary size, and counting Latin characters.
 
