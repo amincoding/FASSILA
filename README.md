@@ -1,1 +1,1 @@
-# FASSILA : A fakenews and sentiment analysis corpus for the algerian dialect
+# FASSILA A Corpus for FakeNews Detection and Sentiment Analysis for the Algerian Dialect
