@@ -1,4 +1,4 @@
-# Arabic Language Analysis
+# FASSILA Analysis
 
 This Python script performs analysis on Arabic language text data, including counting Modern Standard Arabic (MSA) words, determining vocabulary size, and counting Latin characters.
 
@@ -9,15 +9,21 @@ This Python script performs analysis on Arabic language text data, including cou
 
 ```bash
 pip install pandas
+```
 
-### Clone the repository
+## Clone the repository
+```bash
 git clone https://github.com/your_username/arabic-language-analysis.git
 cd arabic-language-analysis
-
+```
+## Replace the file paths in the script with the paths to your dataset files
+```bash
 path = "path/to/your/msa_dataset.csv"
 path2 = "path/to/your/latin_dataset.csv"
-
+```
+## Finally run the code
+```bash
 python analyze_arabic.py
+```
 
-
-Replace `"path/to/your/msa_dataset.csv"` and `"path/to/your/latin_dataset.csv"` with the actual file paths to your MSA and Latin datasets. Also, make sure to name your Python script accordingly (e.g., `analyze_arabic.py`).
+## Replace `"path/to/your/msa_dataset.csv"` and `"path/to/your/latin_dataset.csv"` with the actual file paths to your MSA and Latin datasets. Also, make sure to name your Python script accordingly (e.g., `analyze_arabic.py`).
