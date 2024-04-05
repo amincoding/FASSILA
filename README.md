@@ -1,3 +1,5 @@
+This Repo is the building blocs for the first ever Fake news and sentiment analysis corpus in the algerian dialect, it contains all the codes from the data analysis to training and all.
+
 # 1 - FASSILA Analysis
 
 This Python script performs analysis on Arabic language text data, including counting Modern Standard Arabic (MSA) words, determining vocabulary size, and counting Latin characters.
