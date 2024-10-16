@@ -29,3 +29,16 @@ python analyze_arabic.py
 ```
 
 ## Replace `"path/to/your/msa_dataset.csv"` and `"path/to/your/latin_dataset.csv"` with the actual file paths to your MSA and Latin datasets. Also, make sure to name your Python script accordingly (e.g., `analyze_arabic.py`).
+
+## Citation
+```bibtex
+@article{abdedaiem2023fake,
+  title={Fake News Detection in Low Resource Languages using SetFit Framework},
+  author={Abdedaiem, Amin and Dahou, Abdelhalim Hafedh and Cheragui, Mohamed Amine},
+  journal={Inteligencia Artificial},
+  volume={26},
+  number={72},
+  pages={178--201},
+  year={2023}
+}
+```
